@@ -1,0 +1,25 @@
+# Original packages and all proprietary derivatives stay local.
+/resource/
+/input/
+/extracted/
+/build/
+/.tools/
+/analysis/ios/
+/analysis/android/
+/analysis/toolchain_probe/
+/analysis/previews/
+/analysis/*_evidence.json
+/analysis/asset_inventory.json
+/analysis/*_symbols.json
+/analysis/runtime_test/
+/analysis/archive/
+/analysis/park_layout.json
+/analysis/park_scene.json
+/analysis/models.json
+/analysis/animations.json
+__pycache__/
+*.pyc
+/tools/_deps/
+
+# Local listening catalog contains exported original audio.
+/analysis/sfx-catalog/

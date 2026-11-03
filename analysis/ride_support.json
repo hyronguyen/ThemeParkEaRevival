@@ -1,0 +1,1469 @@
+[
+  {
+    "model": 425,
+    "name": "Water Slides",
+    "category": "RIDES",
+    "artwork": 752,
+    "shop_visible": true,
+    "seats": 5,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 427,
+    "name": "Skull River",
+    "category": "RIDES",
+    "artwork": 768,
+    "shop_visible": true,
+    "seats": 10,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 515,
+    "name": "Wave Rider",
+    "category": "RIDES",
+    "artwork": 932,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "original_idle_only"
+  },
+  {
+    "model": 522,
+    "name": "Log Flume",
+    "category": "RIDES",
+    "artwork": 968,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 404,
+    "name": "Bouncy Castle",
+    "category": "RIDES",
+    "artwork": 592,
+    "shop_visible": true,
+    "seats": 4,
+    "status": "castle_reference"
+  },
+  {
+    "model": 403,
+    "name": "Stone Castle",
+    "category": "RIDES",
+    "artwork": 596,
+    "shop_visible": true,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 409,
+    "name": "Pirate Ship",
+    "category": "RIDES",
+    "artwork": 608,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 410,
+    "name": "Fountain Ride",
+    "category": "RIDES",
+    "artwork": 612,
+    "shop_visible": true,
+    "seats": 6,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 414,
+    "name": "Original Ride 414",
+    "category": "RIDES",
+    "artwork": 600,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 415,
+    "name": "Original Ride 415",
+    "category": "RIDES",
+    "artwork": 668,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 416,
+    "name": "Original Ride 416",
+    "category": "RIDES",
+    "artwork": 716,
+    "shop_visible": true,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 418,
+    "name": "Original Ride 418",
+    "category": "RIDES",
+    "artwork": 628,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 419,
+    "name": "Original Ride 419",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 420,
+    "name": "Original Ride 420",
+    "category": "RIDES",
+    "artwork": 454,
+    "shop_visible": true,
+    "seats": 3,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 421,
+    "name": "Original Ride 421",
+    "category": "RIDES",
+    "artwork": 462,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 422,
+    "name": "Original Ride 422",
+    "category": "RIDES",
+    "artwork": 470,
+    "shop_visible": true,
+    "seats": 3,
+    "status": "locator_only"
+  },
+  {
+    "model": 423,
+    "name": "Original Ride 423",
+    "category": "RIDES",
+    "artwork": 372,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 424,
+    "name": "Original Ride 424",
+    "category": "RIDES",
+    "artwork": 1954,
+    "shop_visible": true,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 428,
+    "name": "Original Ride 428",
+    "category": "RIDES",
+    "artwork": 604,
+    "shop_visible": true,
+    "seats": 5,
+    "status": "locator_only"
+  },
+  {
+    "model": 429,
+    "name": "Original Ride 429",
+    "category": "RIDES",
+    "artwork": 776,
+    "shop_visible": true,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 430,
+    "name": "Original Ride 430",
+    "category": "RIDES",
+    "artwork": 772,
+    "shop_visible": true,
+    "seats": 6,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 431,
+    "name": "Original Ride 431",
+    "category": "RIDES",
+    "artwork": 780,
+    "shop_visible": true,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 432,
+    "name": "Hedge Maze",
+    "category": "RIDES",
+    "artwork": 616,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 433,
+    "name": "Original Ride 433",
+    "category": "RIDES",
+    "artwork": 620,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 434,
+    "name": "Original Ride 434",
+    "category": "RIDES",
+    "artwork": 624,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 436,
+    "name": "Original Ride 436",
+    "category": "RIDES",
+    "artwork": 636,
+    "shop_visible": true,
+    "seats": 9,
+    "status": "locator_only"
+  },
+  {
+    "model": 438,
+    "name": "Original Ride 438",
+    "category": "RIDES",
+    "artwork": 632,
+    "shop_visible": true,
+    "seats": 9,
+    "status": "locator_only"
+  },
+  {
+    "model": 440,
+    "name": "Original Ride 440",
+    "category": "RIDES",
+    "artwork": 644,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "locator_only"
+  },
+  {
+    "model": 441,
+    "name": "Original Ride 441",
+    "category": "RIDES",
+    "artwork": 640,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "locator_only"
+  },
+  {
+    "model": 443,
+    "name": "Original Ride 443",
+    "category": "RIDES",
+    "artwork": 648,
+    "shop_visible": true,
+    "seats": 3,
+    "status": "locator_only"
+  },
+  {
+    "model": 444,
+    "name": "Original Ride 444",
+    "category": "RIDES",
+    "artwork": 652,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 445,
+    "name": "Original Ride 445",
+    "category": "RIDES",
+    "artwork": 656,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 447,
+    "name": "Original Ride 447",
+    "category": "RIDES",
+    "artwork": 660,
+    "shop_visible": true,
+    "seats": 30,
+    "status": "locator_only"
+  },
+  {
+    "model": 449,
+    "name": "Teacups",
+    "category": "RIDES",
+    "artwork": 664,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 450,
+    "name": "Original Ride 450",
+    "category": "RIDES",
+    "artwork": 668,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 452,
+    "name": "Original Ride 452",
+    "category": "RIDES",
+    "artwork": 712,
+    "shop_visible": true,
+    "seats": 16,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 453,
+    "name": "Original Ride 453",
+    "category": "RIDES",
+    "artwork": 736,
+    "shop_visible": true,
+    "seats": 16,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 454,
+    "name": "Original Ride 454",
+    "category": "RIDES",
+    "artwork": 684,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 455,
+    "name": "Original Ride 455",
+    "category": "RIDES",
+    "artwork": 688,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 456,
+    "name": "Original Ride 456",
+    "category": "RIDES",
+    "artwork": 724,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 458,
+    "name": "Original Ride 458",
+    "category": "RIDES",
+    "artwork": 720,
+    "shop_visible": true,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 460,
+    "name": "Original Ride 460",
+    "category": "RIDES",
+    "artwork": 696,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 461,
+    "name": "Original Ride 461",
+    "category": "RIDES",
+    "artwork": 700,
+    "shop_visible": true,
+    "seats": 9,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 463,
+    "name": "Parasol Chairs",
+    "category": "RIDES",
+    "artwork": 708,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 465,
+    "name": "Carousel",
+    "category": "RIDES",
+    "artwork": 740,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 467,
+    "name": "Original Ride 467",
+    "category": "RIDES",
+    "artwork": 756,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 469,
+    "name": "Original Ride 469",
+    "category": "RIDES",
+    "artwork": 760,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 470,
+    "name": "Original Ride 470",
+    "category": "RIDES",
+    "artwork": 764,
+    "shop_visible": true,
+    "seats": 2,
+    "status": "locator_only"
+  },
+  {
+    "model": 471,
+    "name": "Original Ride 471",
+    "category": "RIDES",
+    "artwork": 744,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 472,
+    "name": "Original Ride 472",
+    "category": "RIDES",
+    "artwork": 748,
+    "shop_visible": true,
+    "seats": 20,
+    "status": "locator_only"
+  },
+  {
+    "model": 473,
+    "name": "Original Ride 473",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 474,
+    "name": "Original Ride 474",
+    "category": "RIDES",
+    "artwork": 692,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 475,
+    "name": "Original Ride 475",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 476,
+    "name": "Ferris Wheel",
+    "category": "RIDES",
+    "artwork": 672,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 477,
+    "name": "Original Ride 477",
+    "category": "RIDES",
+    "artwork": 676,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 479,
+    "name": "Original Ride 479",
+    "category": "RIDES",
+    "artwork": 680,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "locator_only"
+  },
+  {
+    "model": 484,
+    "name": "Original Ride 484",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 3,
+    "status": "locator_only"
+  },
+  {
+    "model": 486,
+    "name": "Original Ride 486",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 487,
+    "name": "Original Ride 487",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 488,
+    "name": "Original Ride 488",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 489,
+    "name": "Original Ride 489",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 490,
+    "name": "Original Ride 490",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 491,
+    "name": "Original Ride 491",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 492,
+    "name": "Original Ride 492",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 493,
+    "name": "Original Ride 493",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 26,
+    "status": "locator_only"
+  },
+  {
+    "model": 495,
+    "name": "Original Ride 495",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 497,
+    "name": "Original Ride 497",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 498,
+    "name": "Original Ride 498",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 2,
+    "status": "locator_only"
+  },
+  {
+    "model": 499,
+    "name": "Original Ride 499",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 500,
+    "name": "Original Ride 500",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 16,
+    "status": "locator_only"
+  },
+  {
+    "model": 502,
+    "name": "Original Ride 502",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 18,
+    "status": "locator_only"
+  },
+  {
+    "model": 503,
+    "name": "Original Ride 503",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 508,
+    "name": "Original Ride 508",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 509,
+    "name": "Original Ride 509",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 24,
+    "status": "locator_only"
+  },
+  {
+    "model": 511,
+    "name": "Original Ride 511",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "provisional_mechanical"
+  },
+  {
+    "model": 512,
+    "name": "Original Ride 512",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 513,
+    "name": "Original Ride 513",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 514,
+    "name": "Original Ride 514",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 517,
+    "name": "Original Ride 517",
+    "category": "RIDES",
+    "artwork": 938,
+    "shop_visible": true,
+    "seats": 12,
+    "status": "locator_only"
+  },
+  {
+    "model": 519,
+    "name": "Original Ride 519",
+    "category": "RIDES",
+    "artwork": 944,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 520,
+    "name": "Original Ride 520",
+    "category": "RIDES",
+    "artwork": 952,
+    "shop_visible": true,
+    "seats": 8,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 521,
+    "name": "Original Ride 521",
+    "category": "RIDES",
+    "artwork": 960,
+    "shop_visible": true,
+    "seats": 4,
+    "status": "original_operating_validated"
+  },
+  {
+    "model": 529,
+    "name": "Original Ride 529",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 531,
+    "name": "Original Ride 531",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 533,
+    "name": "Original Ride 533",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 534,
+    "name": "Original Ride 534",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 2,
+    "status": "locator_only"
+  },
+  {
+    "model": 535,
+    "name": "Original Ride 535",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 5,
+    "status": "locator_only"
+  },
+  {
+    "model": 536,
+    "name": "Original Ride 536",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 6,
+    "status": "locator_only"
+  },
+  {
+    "model": 537,
+    "name": "Original Ride 537",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 538,
+    "name": "Original Ride 538",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 539,
+    "name": "Original Ride 539",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 2,
+    "status": "locator_only"
+  },
+  {
+    "model": 540,
+    "name": "Original Ride 540",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 10,
+    "status": "locator_only"
+  },
+  {
+    "model": 541,
+    "name": "Original Ride 541",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 542,
+    "name": "Original Ride 542",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 12,
+    "status": "locator_only"
+  },
+  {
+    "model": 543,
+    "name": "Original Ride 543",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 8,
+    "status": "locator_only"
+  },
+  {
+    "model": 544,
+    "name": "Original Ride 544",
+    "category": "RIDES",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 545,
+    "name": "Candy Floss",
+    "category": "SHOPS",
+    "artwork": 1190,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 546,
+    "name": "Candy Shop",
+    "category": "SHOPS",
+    "artwork": 1194,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 547,
+    "name": "Hot Dogs",
+    "category": "SHOPS",
+    "artwork": 1198,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 548,
+    "name": "Octopus Shop",
+    "category": "SHOPS",
+    "artwork": 1202,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 549,
+    "name": "Pumpkin Shop",
+    "category": "SHOPS",
+    "artwork": 1206,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 550,
+    "name": "Fries",
+    "category": "SHOPS",
+    "artwork": 1122,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 551,
+    "name": "Balloons",
+    "category": "SHOPS",
+    "artwork": 1126,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 552,
+    "name": "Coffee",
+    "category": "SHOPS",
+    "artwork": 1130,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 553,
+    "name": "Soft Drinks",
+    "category": "SHOPS",
+    "artwork": 1138,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 554,
+    "name": "Gingerbread",
+    "category": "SHOPS",
+    "artwork": 1154,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 555,
+    "name": "Burgers",
+    "category": "SHOPS",
+    "artwork": 1142,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 556,
+    "name": "Christmas Shop",
+    "category": "SHOPS",
+    "artwork": 1146,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 557,
+    "name": "Fish Shop",
+    "category": "SHOPS",
+    "artwork": 1158,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 558,
+    "name": "Ice Cream",
+    "category": "SHOPS",
+    "artwork": 1134,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 559,
+    "name": "Pizza",
+    "category": "SHOPS",
+    "artwork": 1150,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 560,
+    "name": "Pirate Shop",
+    "category": "SHOPS",
+    "artwork": 1162,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 561,
+    "name": "Gift Shop",
+    "category": "SHOPS",
+    "artwork": 1170,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 562,
+    "name": "Treasure Shop",
+    "category": "SHOPS",
+    "artwork": 1166,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 563,
+    "name": "Saloon",
+    "category": "SHOPS",
+    "artwork": 1182,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 564,
+    "name": "Chicken",
+    "category": "SHOPS",
+    "artwork": 1178,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 565,
+    "name": "Tropical Shop",
+    "category": "SHOPS",
+    "artwork": 1174,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 566,
+    "name": "Toys",
+    "category": "SHOPS",
+    "artwork": 1186,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 567,
+    "name": "Dr Pepper Drinks",
+    "category": "SHOPS",
+    "artwork": 1220,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 568,
+    "name": "Dr Pepper Dice",
+    "category": "SHOPS",
+    "artwork": 1210,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 569,
+    "name": "Dr Pepper Lounge",
+    "category": "SHOPS",
+    "artwork": 802,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 570,
+    "name": "Party Shop",
+    "category": "SHOPS",
+    "artwork": 1226,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 571,
+    "name": "Tea Garden",
+    "category": "SHOPS",
+    "artwork": 1232,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 572,
+    "name": "Lemonade",
+    "category": "SHOPS",
+    "artwork": 1238,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 573,
+    "name": "Popcorn",
+    "category": "SHOPS",
+    "artwork": 1244,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 574,
+    "name": "Kites",
+    "category": "SHOPS",
+    "artwork": 1250,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 575,
+    "name": "Torch",
+    "category": "SHOPS",
+    "artwork": 1258,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 576,
+    "name": "Workshop",
+    "category": "SHOPS",
+    "artwork": 1266,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 577,
+    "name": "Play Frame",
+    "category": "SHOPS",
+    "artwork": 1270,
+    "shop_visible": true,
+    "seats": 1,
+    "status": "locator_only"
+  },
+  {
+    "model": 578,
+    "name": "Volcano",
+    "category": "SHOPS",
+    "artwork": 1276,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 579,
+    "name": "Flowers",
+    "category": "SHOPS",
+    "artwork": 1280,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 580,
+    "name": "Picnic Garden",
+    "category": "SHOPS",
+    "artwork": 1286,
+    "shop_visible": true,
+    "seats": 4,
+    "status": "locator_only"
+  },
+  {
+    "model": 581,
+    "name": "Totem",
+    "category": "SHOPS",
+    "artwork": 1294,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 582,
+    "name": "Tiki Shop",
+    "category": "SHOPS",
+    "artwork": 1300,
+    "shop_visible": true,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 592,
+    "name": "Original Shop 592",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 593,
+    "name": "Original Shop 593",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 594,
+    "name": "Original Shop 594",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 595,
+    "name": "Original Shop 595",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 596,
+    "name": "Original Shop 596",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 597,
+    "name": "Original Shop 597",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 598,
+    "name": "Original Shop 598",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 599,
+    "name": "Original Shop 599",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 600,
+    "name": "Original Shop 600",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 601,
+    "name": "Original Shop 601",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 602,
+    "name": "Original Shop 602",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 2,
+    "status": "locator_only"
+  },
+  {
+    "model": 603,
+    "name": "Original Shop 603",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 604,
+    "name": "Original Shop 604",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 605,
+    "name": "Original Shop 605",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 606,
+    "name": "Original Shop 606",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 607,
+    "name": "Original Shop 607",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 608,
+    "name": "Original Shop 608",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 609,
+    "name": "Original Shop 609",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 610,
+    "name": "Original Shop 610",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 611,
+    "name": "Original Shop 611",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 612,
+    "name": "Original Shop 612",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 613,
+    "name": "Original Shop 613",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 614,
+    "name": "Original Shop 614",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 615,
+    "name": "Original Shop 615",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 616,
+    "name": "Original Shop 616",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 617,
+    "name": "Original Shop 617",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 618,
+    "name": "Wooden Kiosk",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 619,
+    "name": "Phone Booth",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  },
+  {
+    "model": 620,
+    "name": "Toilets",
+    "category": "SHOPS",
+    "artwork": 0,
+    "shop_visible": false,
+    "seats": 0,
+    "status": "no_binding"
+  }
+]
